@@ -11,13 +11,14 @@ Dilated convolution has been widely used in various computer vision tasks due to
 
 Please cite our paper if you find the work useful: 
 
-	@inproceedings{hu2023samdconv,
-  	title={SAMDConv: Spatially Adaptive Multi-scale Dilated Convolution},
-  	author={Hu, Haigen and Yu, Chenghan and Zhou, Qianwei and Guan, Qiu and Chen, Qi},
-  	booktitle={Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
-  	pages={460--472},
-  	year={2023},
-  	organization={Springer}
+	@article{HU2024106568,
+	title = {HDConv: Heterogeneous kernel-based dilated convolutions},
+	journal = {Neural Networks},
+	volume = {179},
+	pages = {106568},
+	year = {2024},
+	issn = {0893-6080},
+	doi = {https://doi.org/10.1016/j.neunet.2024.106568}
 	}
 
 **[⬆ back to top](#0-preface)**
